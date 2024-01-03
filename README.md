@@ -1,18 +1,40 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Apex Database Query with Bind Methods
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Welcome to the GitHub repository for our Salesforce Apex project focused on database queries using bind methods. This repository contains code examples and resources to help you understand and implement effective querying techniques in Salesforce using Apex.
 
-## How Do You Plan to Deploy Your Changes?
+## About the Project
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+This project demonstrates how to use bind methods in Salesforce Apex for both static and dynamic queries. You'll find examples of querying opportunities, utilizing batch classes, and various approaches to leverage bind variables in Apex. The code is designed to provide a practical understanding of these concepts, making it easier for developers to apply these methods in real-world scenarios.
 
-## Configure Your Salesforce DX Project
+## Video Tutorial
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+For a detailed explanation and walkthrough of the concepts and code in this repository, check out our video tutorial:
 
-## Read All About It
+[Salesforce Apex Database Query with Bind Methods - YouTube](https://youtu.be/GRbxylkLkK4)
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+In this video, we cover the nuances of bind methods in Apex queries, along with practical examples and best practices.
+
+## Repository Contents
+
+- `QueryBinds.cls`: Class demonstrating static and dynamic queries using bind methods.
+- `QueryBindsBatch.cls`: Example of a batch class using bind methods for querying.
+
+## How to Use
+
+Clone this repository to your Salesforce environment to experiment with the code. Modify and run the examples to see how bind methods can optimize your Apex queries.
+
+## Contributing
+
+Your contributions are welcome! If you have improvements or corrections, please open a pull request or issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Connect with Us
+
+For more Salesforce development content and tutorials, subscribe to our [YouTube channel](https://www.youtube.com/channel/walters954).
+
+---
+
+Happy Coding!
